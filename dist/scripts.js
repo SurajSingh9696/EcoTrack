@@ -1,4 +1,4 @@
-const API_BASE = 'https://ecotrackbackend.onrender.com/api';
+const API_BASE = 'https://ecotrack-backend-42la.onrender.com/api';
 
 class EcoTrack {
     constructor() {
